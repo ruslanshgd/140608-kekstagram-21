@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ruslan Sharipov](https://up.htmlacademy.ru/javascript/21/user/140608).
-* Наставник: `Неизвестно`.
+* Наставник: `Ольга Поликашина`.
 
 ---
 
